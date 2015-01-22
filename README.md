@@ -1,6 +1,6 @@
 Clone repo and run all tests
 ```sh
-$ git clone git@github.com:aahill50/dibs-nightwatch.git
+$ git clone https://github.com/aahill50/dibs-nightwatch.git
 $ cd dibs-nightwatch
 $ ./nightwatch
 ```
