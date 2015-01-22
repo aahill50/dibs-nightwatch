@@ -9,12 +9,12 @@
     tests="5" time="" timestamp="">
     
     
-      <testcase name="Element &lt;body&gt; was visible after 45 milliseconds.">
+      <testcase name="Element &lt;body&gt; was visible after 67 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;ul#ui-id-1&gt; was visible after 570 milliseconds.">
+      <testcase name="Element &lt;ul#ui-id-1&gt; was visible after 565 milliseconds.">
         
         
       </testcase>
