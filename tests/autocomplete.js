@@ -1,5 +1,5 @@
 module.exports = {
-    "Autocomplete test" : function (browser) {
+    "Autocomplete test 1" : function (browser) {
         var searchBar = 'input[name=q]';
         var searchList = 'ul#ui-id-1';
         var searchTerm = 'gold';

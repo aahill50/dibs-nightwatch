@@ -5,16 +5,16 @@
              tests="5">
   
   <testsuite errors="0" failures="0" hostname="" id=""
-    name="Autocomplete test" package="autocomplete" skipped="0"
+    name="Autocomplete test 1" package="autocomplete" skipped="0"
     tests="5" time="" timestamp="">
     
     
-      <testcase name="Element &lt;body&gt; was visible after 51 milliseconds.">
+      <testcase name="Element &lt;body&gt; was visible after 42 milliseconds.">
         
         
       </testcase>
     
-      <testcase name="Element &lt;ul#ui-id-1&gt; was visible after 532 milliseconds.">
+      <testcase name="Element &lt;ul#ui-id-1&gt; was visible after 543 milliseconds.">
         
         
       </testcase>
