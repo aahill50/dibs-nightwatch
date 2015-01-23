@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="autocomplete"
+             errors="0"
+             failures="0"
+             tests="2">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Auto Complete - Enter Search Term" package="autocomplete" skipped="0"
+    tests="2" time="" timestamp="">
+    
+    
+      <testcase name="Element &lt;body&gt; was visible after 63 milliseconds.">
+        
+        
+      </testcase>
+    
+      <testcase name="Element &lt;ul#ui-id-1&gt; was visible after 537 milliseconds.">
+        
+        
+      </testcase>
+    
+    
+    </testsuite>
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Auto Complete - Validate Search Results" package="autocomplete" skipped="0"
+    tests="0" time="" timestamp="">
+    
+    
+    
+    </testsuite>
+  
+</testsuites>

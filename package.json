@@ -36,7 +36,8 @@
     "grunt-jsonlint": "~1.0.4",
     "grunt-complexity": "^0.1.7",
     "grunt-npm-release": "latest",
-    "nock": "~0.45.0"
+    "nock": "~0.45.0",
+    "chai": "*"
   },
   "bin": {
     "nightwatch": "./bin/nightwatch"

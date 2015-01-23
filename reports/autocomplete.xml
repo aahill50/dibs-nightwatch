@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="autocomplete"
+             errors="0"
+             failures="0"
+             tests="2">
+  
+  <testsuite errors="0" failures="0" hostname="" id=""
+    name="Autocomplete test step 1" package="autocomplete" skipped="2"
+    tests="2" time="" timestamp="">
+    
+    
+    
+      <system-err>
+        searchBar is not defined
+      </system-err>
+    
+    </testsuite>
+  
+</testsuites>
